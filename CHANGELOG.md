@@ -1,5 +1,12 @@
 
 
+## [0.4.4](https://github.com/alirezamajdi/Next.js-14/compare/0.4.3...0.4.4) (2024-4-29)
+
+
+### Bug Fixes
+
+* A ([0d384cb](https://github.com/alirezamajdi/Next.js-14/commit/0d384cb22f4ed7123965fd034634a1ad0f02ccc8))
+
 ## [0.4.3](https://github.com/alirezamajdi/Next.js-14/compare/0.4.2...0.4.3) (2024-4-29)
 
 
