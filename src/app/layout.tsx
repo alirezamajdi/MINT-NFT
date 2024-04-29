@@ -33,7 +33,6 @@ const inter = Inter({
   weight: ["400", "500", "700"],
   display: "swap",
 });
-
 export default function RootLayout({
   children,
 }: Readonly<{
