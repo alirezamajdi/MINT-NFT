@@ -1,0 +1,768 @@
+@font-face {
+  font-family: 'apollon-font-icon';
+  src: url('../fonts/icons/apollon-font-icon.eot?whwr2h');
+  src:
+    url('../fonts/icons/apollon-font-icon.eot?whwr2h#iefix')
+      format('embedded-opentype'),
+    url('../fonts/icons/apollon-font-icon.ttf?whwr2h') format('truetype'),
+    url('../fonts/icons/apollon-font-icon.woff?whwr2h') format('woff'),
+    url('../fonts/icons/apollon-font-icon.svg?whwr2h#apollon-font-icon')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i{
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'apollon-font-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.apollon-twitter1:before {
+  content: '\e9b1';
+}
+
+.apollon-facebook1:before {
+  content: '\e9b2';
+}
+
+.apollon-brandico_linkedin-rect:before {
+  content: '\e9b3';
+}
+
+.apollon-ant-design_instagram-filled:before {
+  content: '\e9b4';
+}
+
+.apollon-card-vector:before {
+  content: '\e9e9';
+}
+
+.apollon-depositUnpaid:before {
+  content: '\e981';
+}
+
+.apollon-DepositPaid:before {
+  content: '\e982';
+}
+
+.apollon-pending1:before {
+  content: '\e983';
+}
+
+.apollon-pending2:before {
+  content: '\e984';
+}
+
+.apollon-addPhoto:before {
+  content: '\e985';
+}
+
+.apollon-arrowLeft:before {
+  content: '\e986';
+}
+
+.apollon-arrowDown:before {
+  content: '\e987';
+}
+
+.apollon-arrowUp:before {
+  content: '\e988';
+}
+
+.apollon-doubleArrowRight:before {
+  content: '\e989';
+}
+
+.apollon-arrowRight:before {
+  content: '\e98a';
+}
+
+.apollon-balcon1:before {
+  content: '\e98b';
+}
+
+.apollon-notificationBell:before {
+  content: '\e98c';
+}
+
+.apollon-chat:before {
+  content: '\e98d';
+}
+
+.apollon-close:before {
+  content: '\e98e';
+}
+
+.apollon-content:before {
+  content: '\e98f';
+}
+
+.apollon-crown:before {
+  content: '\e990';
+}
+
+.apollon-delete:before {
+  content: '\e991';
+}
+
+.apollon-dislike1:before {
+  content: '\e992';
+}
+
+.apollon-doubleArrowDown:before {
+  content: '\e993';
+}
+
+.apollon-doubleArrowUp:before {
+  content: '\e994';
+}
+
+.apollon-doubleArrowLeft:before {
+  content: '\e995';
+}
+
+.apollon-closeEye:before {
+  content: '\e996';
+}
+
+.apollon-faceScanner:before {
+  content: '\e997';
+}
+
+.apollon-fire1:before {
+  content: '\e998';
+}
+
+.apollon-hand-like:before {
+  content: '\e999';
+}
+
+.apollon-like1:before {
+  content: '\e99a';
+}
+
+.apollon-massage:before {
+  content: '\e99b';
+}
+
+.apollon-signIn:before {
+  content: '\e99c';
+}
+
+.apollon-signOut:before {
+  content: '\e99d';
+}
+
+.apollon-news1:before {
+  content: '\e99e';
+}
+
+.apollon-features1:before {
+  content: '\e99f';
+}
+
+.apollon-aboutUs:before {
+  content: '\e9a0';
+}
+
+.apollon-contactUs:before {
+  content: '\e9a1';
+}
+
+.apollon-FAQ:before {
+  content: '\e9a2';
+}
+
+.apollon-squareKey:before {
+  content: '\e9a3';
+}
+
+.apollon-massageNotification:before {
+  content: '\e9a4';
+}
+
+.apollon-newHome:before {
+  content: '\e9a5';
+}
+
+.apollon-save:before {
+  content: '\e9a6';
+}
+
+.apollon-search1:before {
+  content: '\e9a7';
+}
+
+.apollon-signPaper:before {
+  content: '\e9a8';
+}
+
+.apollon-simpleArrowRight:before {
+  content: '\e9a9';
+}
+
+.apollon-simpleArrowTop:before {
+  content: '\e9aa';
+}
+
+.apollon-simpleArrowLeft:before {
+  content: '\e9ab';
+}
+
+.apollon-simpleArrowDown:before {
+  content: '\e9ac';
+}
+
+.apollon-smallChat:before {
+  content: '\e9ad';
+}
+
+.apollon-tools:before {
+  content: '\e9ae';
+}
+
+.apollon-video-camera2:before {
+  content: '\e9af';
+}
+
+.apollon-volume:before {
+  content: '\e9b0';
+}
+
+.apollon-verify:before {
+  content: '\e97d';
+}
+
+.apollon-cloud-add:before {
+  content: '\e97e';
+}
+
+.apollon-file-2:before {
+  content: '\e97f';
+}
+
+.apollon-send:before {
+  content: '\e980';
+}
+
+.apollon-saved-filled:before {
+  content: '\e975';
+}
+
+.apollon-Lock:before {
+  content: '\e976';
+}
+
+.apollon-twitter:before {
+  content: '\e900';
+}
+
+.apollon-apple:before {
+  content: '\e901';
+}
+
+.apollon-google .path1:before {
+  content: '\e902';
+  color: rgb(251, 187, 0);
+}
+
+.apollon-google .path2:before {
+  content: '\e903';
+  margin-left: -1em;
+  color: rgb(81, 142, 248);
+}
+
+.apollon-google .path3:before {
+  content: '\e904';
+  margin-left: -1em;
+  color: rgb(40, 180, 70);
+}
+
+.apollon-google .path4:before {
+  content: '\e905';
+  margin-left: -1em;
+  color: rgb(241, 67, 54);
+}
+
+.apollon-facebook .path1:before {
+  content: '\e906';
+  color: rgb(24, 119, 242);
+}
+
+.apollon-facebook .path2:before {
+  content: '\e907';
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.apollon-eye:before {
+  content: '\e908';
+}
+
+.apollon-minus:before {
+  content: '\e977';
+}
+
+.apollon-Unpaid1:before {
+  content: '\e967';
+}
+
+.apollon-user-octagon1:before {
+  content: '\e968';
+}
+
+.apollon-video-camera1:before {
+  content: '\e969';
+}
+
+.apollon-view-area1:before {
+  content: '\e96a';
+}
+
+.apollon-Volume-Up1:before {
+  content: '\e96b';
+}
+
+.apollon-Work:before {
+  content: '\e96c';
+}
+
+.apollon-zoom1:before {
+  content: '\e96d';
+}
+
+.apollon-entire-house:before {
+  content: '\e947';
+}
+
+.apollon-face-scanner:before {
+  content: '\e948';
+}
+
+.apollon-family:before {
+  content: '\e949';
+}
+
+.apollon-features:before {
+  content: '\e94a';
+}
+
+.apollon-filter:before {
+  content: '\e94b';
+}
+
+.apollon-fire-extinguisher:before {
+  content: '\e94c';
+}
+
+.apollon-fire:before {
+  content: '\e94d';
+}
+
+.apollon-floorplan:before {
+  content: '\e94e';
+}
+
+.apollon-fluent-play:before {
+  content: '\e94f';
+}
+
+.apollon-area:before {
+  content: '\e950';
+}
+
+.apollon-home-wifi:before {
+  content: '\e951';
+}
+
+.apollon-income:before {
+  content: '\e952';
+}
+
+.apollon-information:before {
+  content: '\e953';
+}
+
+.apollon-invoice:before {
+  content: '\e954';
+}
+
+.apollon-key-square:before {
+  content: '\e955';
+}
+
+.apollon-key:before {
+  content: '\e956';
+}
+
+.apollon-location:before {
+  content: '\e957';
+}
+
+.apollon-like:before {
+  content: '\e958';
+}
+
+.apollon-listing:before {
+  content: '\e959';
+}
+
+.apollon-medal-star:before {
+  content: '\e95a';
+}
+
+.apollon-message:before {
+  content: '\e95b';
+}
+
+.apollon-min-max:before {
+  content: '\e95c';
+}
+
+.apollon-more:before {
+  content: '\e95e';
+}
+
+.apollon-new-home:before {
+  content: '\e95f';
+}
+
+.apollon-news:before {
+  content: '\e960';
+}
+
+.apollon-note:before {
+  content: '\e961';
+}
+
+.apollon-notification:before {
+  content: '\e962';
+}
+
+.apollon-apartment:before {
+  content: '\e964';
+}
+
+.apollon-paid:before {
+  content: '\e965';
+}
+
+.apollon-pending:before {
+  content: '\e966';
+}
+
+.apollon-lamp-on:before {
+  content: '\e979';
+}
+
+.apollon-new-notification:before {
+  content: '\e97a';
+}
+
+.apollon-tick-circle:before {
+  content: '\e97b';
+}
+
+.apollon-Price:before {
+  content: '\e97c';
+}
+
+.apollon-phone-number:before {
+  content: '\e978';
+}
+
+.apollon-unpaid:before {
+  content: '\e909';
+}
+
+.apollon-user-octagon:before {
+  content: '\e90a';
+}
+
+.apollon-video-camera:before {
+  content: '\e90b';
+}
+
+.apollon-view-area:before {
+  content: '\e90c';
+}
+
+.apollon-volume-up:before {
+  content: '\e90d';
+}
+
+.apollon-work:before {
+  content: '\e90e';
+}
+
+.apollon-zoom:before {
+  content: '\e90f';
+}
+
+.apollon-pet:before {
+  content: '\e910';
+}
+
+.apollon-picture:before {
+  content: '\e911';
+}
+
+.apollon-play:before {
+  content: '\e912';
+}
+
+.apollon-plus:before {
+  content: '\e913';
+}
+
+.apollon-pool:before {
+  content: '\e914';
+}
+
+.apollon-price:before {
+  content: '\e915';
+}
+
+.apollon-process:before {
+  content: '\e916';
+}
+
+.apollon-profile-setting:before {
+  content: '\e917';
+}
+
+.apollon-radius:before {
+  content: '\e918';
+}
+
+.apollon-real-state-info:before {
+  content: '\e919';
+}
+
+.apollon-receive:before {
+  content: '\e91a';
+}
+
+.apollon-refresh:before {
+  content: '\e91b';
+}
+
+.apollon-report:before {
+  content: '\e91c';
+}
+
+.apollon-request:before {
+  content: '\e91d';
+}
+
+.apollon-saved:before {
+  content: '\e91e';
+}
+
+.apollon-search:before {
+  content: '\e91f';
+}
+
+.apollon-setting:before {
+  content: '\e920';
+}
+
+.apollon-share:before {
+  content: '\e921';
+}
+
+.apollon-sign-in:before {
+  content: '\e922';
+}
+
+.apollon-sign-out:before {
+  content: '\e923';
+}
+
+.apollon-sign:before {
+  content: '\e924';
+}
+
+.apollon-single-accupancy:before {
+  content: '\e925';
+}
+
+.apollon-sofa:before {
+  content: '\e926';
+}
+
+.apollon-square:before {
+  content: '\e927';
+}
+
+.apollon-streetview:before {
+  content: '\e928';
+}
+
+.apollon-students:before {
+  content: '\e929';
+}
+
+.apollon-swap:before {
+  content: '\e92a';
+}
+
+.apollon-terms:before {
+  content: '\e92b';
+}
+
+.apollon-tick:before {
+  content: '\e92c';
+}
+
+.apollon-trash:before {
+  content: '\e92d';
+}
+
+.apollon-tree:before {
+  content: '\e92e';
+}
+
+.apollon-trust:before {
+  content: '\e92f';
+}
+
+.apollon-camera:before {
+  content: '\e930';
+}
+
+.apollon-duplicate:before {
+  content: '\e931';
+}
+
+.apollon-edit:before {
+  content: '\e932';
+}
+
+.apollon-about-us:before {
+  content: '\e933';
+}
+
+.apollon-add-photo:before {
+  content: '\e934';
+}
+
+.apollon-add:before {
+  content: '\e935';
+}
+
+.apollon-arrow-down:before {
+  content: '\e936';
+}
+
+.apollon-arrow-left:before {
+  content: '\e937';
+}
+
+.apollon-arrow-right:before {
+  content: '\e938';
+}
+
+.apollon-arrow-up:before {
+  content: '\e939';
+}
+
+.apollon-balcon:before {
+  content: '\e93a';
+}
+
+.apollon-bank:before {
+  content: '\e93b';
+}
+
+.apollon-bath:before {
+  content: '\e93c';
+}
+
+.apollon-bed:before {
+  content: '\e93d';
+}
+
+.apollon-bill:before {
+  content: '\e93e';
+}
+
+.apollon-calendar:before {
+  content: '\e93f';
+}
+
+.apollon-car:before {
+  content: '\e940';
+}
+
+.apollon-card-tick:before {
+  content: '\e941';
+}
+
+.apollon-smoke:before {
+  content: '\e942';
+}
+
+.apollon-clock:before {
+  content: '\e943';
+}
+
+.apollon-close-eye:before {
+  content: '\e944';
+}
+
+.apollon-close-small:before {
+  content: '\e945';
+}
+
+.apollon-close-square:before {
+  content: '\e946';
+}
+
+.apollon-contact-us-menu:before {
+  content: '\e95d';
+}
+
+.apollon-contact-us-2:before {
+  content: '\e963';
+}
+
+.apollon-contract-agreement:before {
+  content: '\e96e';
+}
+
+.apollon-3D:before {
+  content: '\e96f';
+}
+
+.apollon-dashboard:before {
+  content: '\e970';
+}
+
+.apollon-dislike:before {
+  content: '\e971';
+}
+
+.apollon-down:before {
+  content: '\e972';
+}
+
+.apollon-download:before {
+  content: '\e973';
+}
+
+.apollon-entire-flat:before {
+  content: '\e974';
+}

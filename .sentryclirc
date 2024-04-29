@@ -1,0 +1,7 @@
+[defaults]
+url='https://sentry.io/'
+org='apollon'
+project='web-app'
+
+[auth]
+token='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'
