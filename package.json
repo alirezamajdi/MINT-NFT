@@ -1,6 +1,6 @@
 {
   "name": "webapp-v2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "private": true,
   "scripts": {
@@ -51,7 +51,7 @@
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
   },
- "release-it": {
+  "release-it": {
     "git": {
       "commitMessage": "chore: release v${version}"
     },
