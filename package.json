@@ -75,10 +75,7 @@
               "section": "Bug Fixes"
             },
             {}
-          ],
-          "presetConfig": {
-            "outputUnreleased": true
-          }
+          ]
         }
       }
     }
