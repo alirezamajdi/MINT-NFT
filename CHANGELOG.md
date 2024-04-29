@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/alirezamajdi/Next.js-14/compare/0.2.1...0.3.0) (2024-4-29)
+
+
+### Features
+
+* update ([cc1a9e9](https://github.com/alirezamajdi/Next.js-14/commit/cc1a9e9ebf69ee7ac49aa59eb90e671b22f1a366))
+
 ## [0.2.1](https://github.com/alirezamajdi/Next.js-14/compare/0.2.0...0.2.1) (2024-4-29)
 
 
