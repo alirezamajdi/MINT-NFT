@@ -64,3 +64,9 @@ input::placeholder {
     rgba(59, 0, 134, 1) 100%
   );
 }
+
+@layer components {
+  .auth-btn {
+    @apply flex items-center border border-[#747D90] rounded-[30px] py-[12px] px-[20px];
+  }
+}
