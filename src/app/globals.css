@@ -50,11 +50,15 @@ input::placeholder {
   font-size: 13px;
 }
 
-.btn {
-  border-radius: 5px;
-  height: 40px;
-  margin-top: 20px;
+@layer components {
+  .auth-btn {
+    @apply flex items-center border border-[#747D90] rounded-[30px] py-[12px] px-[20px];
+  }
+  .btn {
+    @apply rounded-[5px] h-[40px] mt-[20px];
+  }
 }
+
 .btn-primary {
   background: rgb(155, 82, 250);
   background: linear-gradient(
@@ -63,10 +67,4 @@ input::placeholder {
     rgba(106, 41, 191, 1) 50%,
     rgba(59, 0, 134, 1) 100%
   );
-}
-
-@layer components {
-  .auth-btn {
-    @apply flex items-center border border-[#747D90] rounded-[30px] py-[12px] px-[20px];
-  }
 }

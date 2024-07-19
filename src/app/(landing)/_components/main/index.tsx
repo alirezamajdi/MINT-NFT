@@ -1,5 +1,4 @@
 import React from "react";
-import "./index.css";
 import Members from "./Members";
 import Form from "./Form";
 
