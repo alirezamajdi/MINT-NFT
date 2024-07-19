@@ -1,19 +1,14 @@
-interface Pagination {
-  currentPage: number;
-  lastPage: number;
-  perPage: number;
+interface Responsive<T> {
+  page: number;
+  per_page: number;
   total: number;
+  data: T;
 }
-interface File {
-  id: string;
-  type: string;
-  downloadUrl: string;
-  thumbnails: {};
-}
-interface DecodeToken {
-  _id: string;
-  fullName: string;
+
+interface Member {
+  id: number;
   email: string;
-  iat: number;
-  exp: number;
+  first_name: string;
+  last_name: string;
+  avatar: string;
 }

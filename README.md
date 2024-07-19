@@ -36,3 +36,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 just folders and page and index is lowercase
+
+
+//docker file command
+docker build -t nextjs-14 .   
+
+//composer file command
+docker-compose up --build

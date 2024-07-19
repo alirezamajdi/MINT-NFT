@@ -2,11 +2,11 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Apollon",
-    short_name: "Apollon",
+    name: "Mint Application",
+    short_name: "Mint Application",
     start_url: "/",
-    theme_color: "#006FFD",
-    background_color: "#FAFBFF",
+    theme_color: "#080c15",
+    background_color: "#080c15",
     display: "fullscreen",
     icons: [
       {

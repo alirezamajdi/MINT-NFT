@@ -1,23 +1,66 @@
-/* @tailwind base; */
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  background: rgb(1, 19, 54);
+  background: radial-gradient(
+    circle,
+    rgba(1, 19, 54, 1) 0%,
+    rgba(8, 12, 21, 1) 85%
+  );
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+body {
+  color: aliceblue;
+}
+.container {
+  margin: auto;
+  padding: 0px 25px;
+}
+
+.header-title {
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  font-family: "Techno Chain", sans-serif;
+}
+
+@media (min-width: 768px) {
+  .header-title {
+    margin-top: 120px;
   }
 }
 
+.font-Poppins {
+  font-family: "Poppins", sans-serif;
+}
 
+.font-Techno {
+  font-family: "Techno Chain", sans-serif;
+}
 
-/* .ant-btn {
-  @apply bg-slate-600;
-} */
+input:focus {
+  outline: none;
+}
+
+input::placeholder {
+  font-size: 13px;
+}
+
+.btn {
+  border-radius: 5px;
+  height: 40px;
+  margin-top: 20px;
+}
+.btn-primary {
+  background: rgb(155, 82, 250);
+  background: linear-gradient(
+    90deg,
+    rgba(155, 82, 250, 1) 0%,
+    rgba(106, 41, 191, 1) 50%,
+    rgba(59, 0, 134, 1) 100%
+  );
+}
