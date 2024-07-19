@@ -1,5 +1,12 @@
 
 
+## [0.7.0](https://github.com/alirezamajdi/MINT-NFT/compare/0.6.0...0.7.0) (2024-07-19)
+
+
+### Features
+
+* disConnect btn was added ([64d5abd](https://github.com/alirezamajdi/MINT-NFT/commit/64d5abdffa845308747ab5a7865e487afbc79ec2))
+
 ## [0.6.0](https://github.com/alirezamajdi/MINT-NFT/compare/0.5.1...0.6.0) (2024-07-19)
 
 
