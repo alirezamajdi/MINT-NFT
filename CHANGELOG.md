@@ -1,5 +1,12 @@
 
 
+## [0.7.1](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.0...0.7.1) (2024-07-19)
+
+
+### Bug Fixes
+
+* Refactor README file ([7aa4bc0](https://github.com/alirezamajdi/MINT-NFT/commit/7aa4bc0e39c7f0445f46be060184d03d00535be8))
+
 ## [0.7.0](https://github.com/alirezamajdi/MINT-NFT/compare/0.6.0...0.7.0) (2024-07-19)
 
 
