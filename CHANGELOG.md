@@ -1,5 +1,17 @@
 
 
+## [0.6.0](https://github.com/alirezamajdi/MINT-NFT/compare/0.5.1...0.6.0) (2024-07-19)
+
+
+### Features
+
+* Initial project ([0d93242](https://github.com/alirezamajdi/MINT-NFT/commit/0d93242a6317af3486c48fdaa679936bb0a8c3e1))
+
+
+### Bug Fixes
+
+* Work on README file ([cf2e582](https://github.com/alirezamajdi/MINT-NFT/commit/cf2e58207660d6de20455722961ce2d8a458c448))
+
 ## [0.5.1](https://github.com/alirezamajdi/Next.js-14/compare/0.5.0...0.5.1) (2024-4-29)
 
 
