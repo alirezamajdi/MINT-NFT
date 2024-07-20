@@ -1,5 +1,12 @@
 
 
+## [0.7.3](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.2...0.7.3) (2024-07-20)
+
+
+### Bug Fixes
+
+* Working on routes ([5314b26](https://github.com/alirezamajdi/MINT-NFT/commit/5314b262fcf2c7cb5297213c0e8e6d1983a14fc5))
+
 ## [0.7.2](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.1...0.7.2) (2024-07-20)
 
 
