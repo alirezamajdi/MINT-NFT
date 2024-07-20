@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, install dependencies:
+First, clone project:
+
+```bash
+git clone https://github.com/alirezamajdi/MINT-NFT.git
+```
+
+Then, install dependencies:
 
 ```bash
 npm install

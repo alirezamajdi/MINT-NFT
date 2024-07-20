@@ -44,3 +44,9 @@
   right: 0;
   bottom: 0;
 }
+
+@media (max-width: 639px) and (min-width: 500px) {
+  .card {
+    height: 300px !important;
+  }
+}
