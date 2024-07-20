@@ -1,5 +1,12 @@
 
 
+## [0.7.2](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.1...0.7.2) (2024-07-20)
+
+
+### Bug Fixes
+
+* Working on member card ([c2fb335](https://github.com/alirezamajdi/MINT-NFT/commit/c2fb335f39e532130dae42ec932185f5ae7907c7))
+
 ## [0.7.1](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.0...0.7.1) (2024-07-19)
 
 
