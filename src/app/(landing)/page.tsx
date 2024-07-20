@@ -1,5 +1,11 @@
-import Main from "./_components/main/index";
+import Form from "./_components/Form";
+import Members from "./_components/Members";
 
 export default function Home() {
-  return <Main />;
+  return (
+    <main className="main container">
+      <Members />
+      <Form />
+    </main>
+  );
 }
