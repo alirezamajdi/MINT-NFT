@@ -1,5 +1,7 @@
 
 
+## [0.7.4](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.3...0.7.4) (2024-07-21)
+
 ## [0.7.3](https://github.com/alirezamajdi/MINT-NFT/compare/0.7.2...0.7.3) (2024-07-20)
 
 
