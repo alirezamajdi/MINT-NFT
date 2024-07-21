@@ -8,14 +8,14 @@
 }
 
 .card::before {
-  content: url("../../../assets/corner2.png");
+  content: url("../../../assets/corner2.svg");
   position: absolute;
   top: 0;
   right: 0;
 }
 
 .card::after {
-  content: url("../../../assets/corner3.png");
+  content: url("../../../assets/corner3.svg");
   position: absolute;
   left: 0;
   bottom: 0;
@@ -32,14 +32,14 @@
 }
 
 .card-detail::before {
-  content: url("../../../assets/corner1.png");
+  content: url("../../../assets/corner1.svg");
   position: absolute;
   top: 0;
   left: 0;
 }
 
 .card-detail::after {
-  content: url("../../../assets/corner4.png");
+  content: url("../../../assets/corner4.svg");
   position: absolute;
   right: 0;
   bottom: 0;
